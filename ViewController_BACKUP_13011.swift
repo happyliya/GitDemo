@@ -16,10 +16,12 @@ class ViewController: UIViewController {
         
         // Do any additional setup after loading the view.
     }
-
+<<<<<<< HEAD
+=======
 
     func bugFixFunc() {
         print("Bug fix func")
     }
+>>>>>>> BugFix1
 }
 

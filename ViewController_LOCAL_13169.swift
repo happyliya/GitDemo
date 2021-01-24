@@ -16,10 +16,5 @@ class ViewController: UIViewController {
         
         // Do any additional setup after loading the view.
     }
-
-
-    func bugFixFunc() {
-        print("Bug fix func")
-    }
 }
 

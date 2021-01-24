@@ -11,15 +11,10 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        
-        print("I dont want to print anything")
-        
+        print("Pull Test")
         // Do any additional setup after loading the view.
     }
 
 
-    func bugFixFunc() {
-        print("Bug fix func")
-    }
 }
 
