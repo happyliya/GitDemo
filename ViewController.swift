@@ -11,7 +11,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("Pull Test")
+        print("I dont want to print anything")
         // Do any additional setup after loading the view.
     }
 
